@@ -4,8 +4,8 @@ Start a elasticsearch instance that support Chinese with default configuration
 
 ## Road map
 
-- [ ] run locally
-- [ ] Chinese support
+- [x] run locally
+- [x] Chinese support
 - [ ] cluster in local machine (for test)
 - [ ] cluster in multiple machine
 - [ ] run in docker container
@@ -13,4 +13,4 @@ Start a elasticsearch instance that support Chinese with default configuration
 ## Version
 
 - elasticsearch  2.1.1
-- 
+- elasticsearch-analysis-ik 1.7.0  https://github.com/medcl/elasticsearch-analysis-ik
