@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-tar -zxvf ../bundle/elasticsearch-2.1.1.tar.gz -C ../bundle
+# https://download.elasticsearch.org/elasticsearch/release/org/elasticsearch/distribution/tar/elasticsearch/2.2.0/elasticsearch-2.2.0.tar.gz
+tar -zxvf ../bundle/elasticsearch-2.2.0.tar.gz -C ../bundle

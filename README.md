@@ -5,7 +5,8 @@ Start a elasticsearch instance that support Chinese with default configuration
 ## Road map
 
 - [x] run locally
-- [x] Chinese support
+- [ ] Chinese support
+- [ ] PDF file support
 - [ ] cluster in local machine (for test)
 - [ ] cluster in multiple machine
 - [ ] run in docker container

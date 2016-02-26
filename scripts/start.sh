@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-../bundle/elasticsearch-2.1.1/bin/elasticsearch
+../bundle/elasticsearch-2.2.0/bin/elasticsearch
