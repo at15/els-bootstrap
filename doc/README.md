@@ -2,7 +2,8 @@
 
 ## Setup
 
-- download and extract tarball
+- download from https://www.elastic.co/downloads/elasticsearch
+- use `setup.sh` to extract the tarball
 - use bin/elasticsearch to start it in console. ( you can CTRL + C to stop it)
 
 ## Install plugin
